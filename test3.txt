@@ -1,1 +1,2 @@
 kaidhas .new type
+docgment attach in this file manager
